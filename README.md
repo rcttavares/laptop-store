@@ -1,7 +1,6 @@
-# Desenvolvimento Node.js com nodemon
+# laptop-store
 
-1. Rodar script:
-nodemon
+No terminal:
 
-2. Abrir o URL serve:
-<http://localhost:8080>
+    1. Rodar script: nodemon
+    2. Abrir o URL serve: <http://localhost:8080>
